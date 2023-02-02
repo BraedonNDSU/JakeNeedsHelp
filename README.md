@@ -16,11 +16,11 @@ A Jira dashboard is available for you to use for the creation of tickets
 
 ## Database Setup
 
-Youâ€™ll use postgresql as your data repository an innitial database with a small amount of innitial data will be provided.
+You’ll use postgresql as your data repository an innitial database with a small amount of innitial data will be provided.
 
 1. Install postgresql from https://www.postgresql.org/ On your local pc to be able to dev on a local environment
 2. You can use PGAdmin to connect to your local db instances and remote google cloud instances
-3. Google Cloud postgresql instance credentials: IP: 34.135.25.15 Username: postgres Password: iOhlptIwcryqwIpt
+3. Google Cloud postgresql instance credentials: 
 4. Postgresql Training video: https://www.youtube.com/watch?v=Dd2ej-QKrWY&t=1992s
 
 
