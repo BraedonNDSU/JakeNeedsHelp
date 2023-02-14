@@ -26,6 +26,7 @@ You’ll use postgresql as your data repository an innitial database with a small 
 
 ## Database SQL
 
+There are two Schemas in the `Test Sync` Database. ITMDATADDL should be the production environment and ITMMTSTDDL should be test environment
 
 ## Api Setup
 
