@@ -20,12 +20,13 @@ You’ll use postgresql as your data repository an innitial database with a small 
 
 1. Install postgresql from https://www.postgresql.org/ On your local pc to be able to dev on a local environment
 2. You can use PGAdmin to connect to your local db instances and remote google cloud instances
-3. Google Cloud postgresql instance credentials: username: postgres password: (:gvM_F:(u7(hL(g 
+3. Google Cloud postgresql instance credentials: IP address: 34.135.25.15 username: postgres password: (:gvM_F:(u7(hL(g 
 4. Postgresql Training video: https://www.youtube.com/watch?v=Dd2ej-QKrWY&t=1992s
 
 
 ## Database SQL
 
+There are two Schemas in the `Test Sync` Database. ITMDATADDL should be the production environment and ITMMTSTDDL should be test environment
 
 ## Api Setup
 
